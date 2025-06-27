@@ -3,7 +3,7 @@ pipeline {
     stages{
         stage ("say hello") {
             steps {
-                echo '¡Jenkins está funcionando! 🎉'
+                echo '¡Jenkins está funcionando! 🎉 otra vez'
             }
         }
     }
